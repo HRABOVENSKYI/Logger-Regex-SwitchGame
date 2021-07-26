@@ -1,0 +1,1 @@
+Create a class that implements interface Iterable<String>. The class should parse the text file and return sentences. The method 'iterator' of the given class should return the iterator object - an instance of the inner class? The method Iterator#remove should throw an exception UnsupportedOperationException.
